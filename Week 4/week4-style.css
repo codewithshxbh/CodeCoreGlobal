@@ -1,0 +1,22 @@
+
+body {
+  font-family: sans-serif;
+  background-color: white;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+body.dark {
+  background-color: #121212;
+  color: white;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #444;
+  color: white;
+}
